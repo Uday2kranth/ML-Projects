@@ -1,10 +1,10 @@
-# ML-Projects 🚀
+# ML-Projects 
 
 This repository contains several beginner-to-intermediate machine learning projects, implemented in Python using Jupyter Notebooks. Each project demonstrates key concepts such as regression, classification, and model evaluation using real-world datasets.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 | Folder | Description |
 |--------|-------------|
@@ -16,7 +16,7 @@ This repository contains several beginner-to-intermediate machine learning proje
 
 ---
 
-## 📌 Tools Used
+##  Tools Used
 - Python
 - Jupyter Notebook
 - Pandas, NumPy, Scikit-learn
@@ -24,7 +24,7 @@ This repository contains several beginner-to-intermediate machine learning proje
 
 ---
 
-## 💡 How to Use
+##  How to Use
 
 1. Clone the repository:
    ```bash
